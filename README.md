@@ -34,7 +34,7 @@ Publish the website in the given URL.
 DEVELOPED BY: JAYABHARATHI.S
 REGISTER NUMBER : 212222100013
 
-##math.html
+## math.html
 
 <html>
 <head>
@@ -100,7 +100,7 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </body>
 </html>
 
-##views.py
+## views.py
 
 from django.shortcuts import render
 def rectarea(request):
@@ -122,7 +122,7 @@ def rectarea(request):
         print('Area=',area)
     return render(request,'myapp/math.html',context)    
 
-##urls.py
+## urls.py
 
 from django.contrib import admin
 from django.urls import path
