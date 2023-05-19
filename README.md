@@ -137,10 +137,12 @@ urlpatterns = [
 
 ## CLIENT OUTPUT:
 
+![areaoftri](https://github.com/Jayabharathi3/serversideprocessing/assets/120367796/e537db5a-15ea-48c7-b1c9-8c2e74e346a7)
 
 
 ## SERVER OUTPUT:
 
+![servertri](https://github.com/Jayabharathi3/serversideprocessing/assets/120367796/fbe4a640-363c-4455-b997-ddee511e2cbf)
 
 
 ## Result:
